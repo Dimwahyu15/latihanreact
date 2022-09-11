@@ -1,0 +1,62 @@
+.firstbackground
+{
+    height: 100vh;
+    background: url(../Assets/images/bg/background.jpg);
+    background-size: cover;
+}
+
+.group{
+    padding : 30px;
+  border-radius: 15px;
+
+}
+
+
+
+.bege
+{
+    margin-bottom: 50px;
+   align-items: center ;
+   text-align: center;
+}
+
+.intro
+{
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title
+{
+  font-size: 2rem;
+  font-weight: 200;
+  line-height: 1;
+  letter-spacing: 4px;
+  margin: 10px;
+}
+.juduldesain
+{
+  color: black;
+  font-size: 2rem;
+}
+
+.tentangdesain
+{
+  margin-top: 50px;
+
+}
+
+.tentangproject
+{
+  margin: 50px;
+}
+
+.motreet
+{
+  margin: 50px;
+  align-items: center;
+  justify-content: end ;
+ 
+}
